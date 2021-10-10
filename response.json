@@ -1,0 +1,138 @@
+[
+  {
+    "emp_status": "fulltime",
+    "emp_name": "mkb",
+    "emp_address": "hyd",
+    "emp_id": 131
+  },
+ 
+ {
+    "emp_status": "fulltime",
+    "emp_name": "ravi",
+    "emp_address": "hyd",
+    "emp_id": 132
+  },
+ 
+ {
+    "emp_status": "pareminent",
+    "emp_name": "muthu",
+    "emp_address": null,
+    "emp_id": 134
+  },
+ 
+ {
+    "emp_status": "pareminent",
+    "emp_name": "muthu",
+    "emp_address": null,
+    "emp_id": 133
+  },
+  
+{
+    "emp_status": "pareminent",
+    "emp_name": "muthu",
+    "emp_address": null,
+    "emp_id": 135
+  },
+  
+{
+    "emp_status": "pareminent",
+    "emp_name": "muthu",
+    "emp_address": null,
+    "emp_id": 136
+  },
+ 
+ {
+    "emp_status": "pareminent",
+    "emp_name": "muthu",
+    "emp_address": null,
+    "emp_id": 137
+  },
+  
+{
+    "emp_status": "pareminent",
+    "emp_name": "muthu",
+    "emp_address": null,
+    "emp_id": 138
+  },
+  
+{
+    "emp_status": "pareminent",
+    "emp_name": "muthu",
+    "emp_address": null,
+    "emp_id": 139
+  },
+  
+{
+    "emp_status": "pareminent",
+    "emp_name": "muthu",
+    "emp_address": null,
+    "emp_id": 121
+  },
+
+{
+    "emp_status": "fulltime",
+    "emp_name": "mkb",
+    "emp_address": "hyd",
+    "emp_id": 140
+  },
+ 
+ {
+    "emp_status": "fulltime",
+    "emp_name": "ravi",
+    "emp_address": "hyd",
+    "emp_id": 142
+  },
+ 
+ {
+    "emp_status": "pareminent",
+    "emp_name": "muthu",
+    "emp_address": null,
+    "emp_id": 143  },
+ 
+ {
+    "emp_status": "pareminent",
+    "emp_name": "muthu",
+    "emp_address": null,
+    "emp_id": 144  },
+  
+{
+    "emp_status": "pareminent",
+    "emp_name": "muthu",
+    "emp_address": null,
+    "emp_id": 145
+  },
+  
+{
+    "emp_status": "pareminent",
+    "emp_name": "muthu",
+    "emp_address": null,
+    "emp_id": 146
+  },
+ 
+ {
+    "emp_status": "pareminent",
+    "emp_name": "muthu",
+    "emp_address": null,
+    "emp_id": 147
+  },
+  
+{
+    "emp_status": "pareminent",
+    "emp_name": "muthu",
+    "emp_address": null,
+    "emp_id": 148
+  },
+  
+{
+    "emp_status": "pareminent",
+    "emp_name": "muthu",
+    "emp_address": null,
+    "emp_id": 149
+  },
+  
+{
+    "emp_status": "pareminent",
+    "emp_name": "muthu",
+    "emp_address": null,
+    "emp_id": 150
+  }]
